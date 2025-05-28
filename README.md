@@ -31,7 +31,7 @@ If you find any other issues, please report it in the [**issue tracker**](https:
 
 ## Changelog
 
-* 2025 05 28 ():
+* 2025 05 28:
 	* Added initial JNSQ patch
 
 ## Roadmap
