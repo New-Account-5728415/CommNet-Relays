@@ -27,7 +27,7 @@ From there, just unzip the "ContractPacks/CommNetRelays" folder into your GameDa
 
 It might be cool if nightingale implemented a coverage-checking feature like there is for RemoteTech, but as things are, I use the number of relays or relay-like vessels in orbit as a proxy -- four is the minimum to get full coverage (though that could be as low as two depending on how forgiving you've set the line-of-sight "fudge factor" to be), so if you've got five ships with enough relay antennas in low-enough orbit around a body, I figure you have coverage that's good enough and the config won't generate contracts for that body. In general, I've left most of the details of your network unconstrained -- the minimum and/or maximum values in the requirements will keep your satellites within range of the ground, but it's up to you to put your satellites in orbits that are useful for your particular situation.
 
-If you find any other issues, please let me know in the [**KSP forum thread**](http://forum.kerbalspaceprogram.com/threads/129704-1-0-2-4-Contract-Pack-CommNet-Relays-1-0-0-%282015-Jul-24%29) or on the GitHub repo's [**issue tracker**](https://github.com/Kerbas-ad-astra/CommNet-Relays/issues)!
+If you find any other issues, please report it in the [**issue tracker**](https://github.com/New-Account-5728415/CommNet-Relays/issues)!
 
 ## Version history and changelog
 
@@ -36,7 +36,7 @@ If you find any other issues, please let me know in the [**KSP forum thread**](h
 
 ## Roadmap
 
-If you have suggestions, please post an [**issue**](https://github.com/Kerbas-ad-astra/CommNet-Relays/issues) on the GitHub repo.
+If you have suggestions, please post an [**issue**](https://github.com/New-Account-5728415/CommNet-Relays/issues) on the GitHub repo.
 
 ## Credits
 
